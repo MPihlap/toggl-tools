@@ -1,0 +1,3 @@
+[submodule "gcal_toggl_integration"]
+	path = gcal_toggl_integration
+	url = https://github.com/MPihlap/gcal_toggl_integration
